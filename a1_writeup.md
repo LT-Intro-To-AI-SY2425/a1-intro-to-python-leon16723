@@ -23,4 +23,4 @@ i think the over all langunge stays pretty simmilar but a lot of syntax and evry
 
 
 3. What are some things that you learned through this assignment?
-I learned how python is diffrent and how to look at problems in a python way. I also learned how to utiliez ai to help me learn. I learned alot of aspects of pythoon and how to use visual studio code.
+I learned how python is diffrent and how to look at problems in a python way. I also learned how to utiliez ai to help me learn. I learned alot of aspects of pythoon and how to use visual studio code. I also learned more specifcally certian operations in pythoon wich was really fun to seehow python is so much more user frendily.

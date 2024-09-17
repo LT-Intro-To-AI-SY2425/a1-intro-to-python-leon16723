@@ -13,14 +13,14 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
-I think it is very very efficent and much faster/ that java.
+I think it is very very efficent and much faster/ that java. I really like the python way of solving probelms it really just seems much shorter and more enjoyable to do as you dont need to spend as much time on doing these probelms. Furthermore, i also do like how the indents work in pyhtoon, it makes it less confusing then having all the semi colons and other wierd aspects of java.
 
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-i think the over all langunge stays pretty simmilar but a lot of syntax and evryething like that changes, python seems to have easier to comprhend languge.
+i think the over all langunge stays pretty simmilar but a lot of syntax and evryething like that changes, python seems to have easier to comprhend languge. Java and pyhtoon also over all have pretty simmilar ways you could sove problems but the pytoon ways do seem faster, and easier and less work overall.
 
 
 
 3. What are some things that you learned through this assignment?
-I learned how python is diffrent and how to look at problems in a python way.
+I learned how python is diffrent and how to look at problems in a python way. I also learned how to utiliez ai to help me learn. I learned alot of aspects of pythoon and how to use visual studio code.

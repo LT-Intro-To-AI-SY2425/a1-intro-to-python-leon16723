@@ -15,7 +15,7 @@ a, b = 0, 1
 for _ in range(n):
     print(a, end=' ')
     a, b = b, a + b
-
+ 
 assert fizbuzz(1) == 1, "fizzbuzz 1 test"
 assert fizbuzz(3) == "Fizz", "fizzbuzz 3 test"
 assert fizbuzz(4) == 4, "fizzbuzz 4 test"

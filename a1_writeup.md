@@ -18,7 +18,7 @@ I think it is very very efficent and much faster/ that java. I really like the p
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-i think the over all langunge stays pretty simmilar but a lot of syntax and evryething like that changes, python seems to have easier to comprhend languge. Java and pyhtoon also over all have pretty simmilar ways you could sove problems but the pytoon ways do seem faster, and easier and less work overall.
+I think the over all langunge stays pretty simmilar but a lot of syntax and evryething like that changes, python seems to have easier to comprhend languge. Java and pyhtoon also over all have pretty simmilar ways you could sove problems but the pytoon ways do seem faster, and easier and less work overall.
 
 
 
